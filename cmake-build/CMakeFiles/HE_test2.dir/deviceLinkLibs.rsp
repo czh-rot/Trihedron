@@ -1,0 +1,1 @@
+  -L"/usr/local/cuda-12.3/targets/x86_64-linux/lib/stubs"  -L"/usr/local/cuda-12.3/targets/x86_64-linux/lib"  libHEonGPU.a lib/libgtest_main.a "_deps/seal-build/lib/libseal-4.1.a" lib/libgtest.a -lpthread  -lcudadevrt -lcudart_static -lrt -ldl 
