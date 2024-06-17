@@ -2,7 +2,7 @@
 ---
 Trihedron is a practical Keyword PIR implementation, that has efficient throughput for various real-world scenarios.
 
-This study is based on the GPU implementation of the BFV scheme ([HEGPU](https://hegithub.com/Alisah-Ozcan/HE_GPU)).
+This study is based on the GPU implementation of the BFV scheme ([HEGPU](https://github.com/Alisah-Ozcan/HE_GPU)).
 
 #### Features
 ---
